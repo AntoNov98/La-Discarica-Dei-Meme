@@ -85,4 +85,23 @@ Non serve alcun comando per utilizzare questo plugin
                      # / Comandi \ #
 [DISPLAY] o [PLAYER] su un cartello
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- Nametag
+# | Nametag ti permette di poter creare un proprio nick personalizzato.
+
+                     # / Comandi \ #
+1) /Nte Player <Nome> clear             - Elimina il nick creato
+2) /Nte Player <Nome> prefix <Prefisso> - Crea un Suffisso
+3) /Nte Player <Nome> suffix <Suffisso> - Crea un Prefisso
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- PetOwner
+# | Nametag ti mostra, mediante HUD, il possessore di un animale.
+
+                     # / Comandi \ #
+1) /Petm setowner <Nome> - Diventi il possessore di un animale (Cane, Pappagallo, etc)
+2) /Petm free <Nome>     - Liberi un animale
+
 
