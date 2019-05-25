@@ -1,0 +1,39 @@
+Qui troverai la lista di tutti i comandi accessibili nel server, buon game!
+
+# + --- Login Security
+# | Login Security e' un plugin che ti permeterra' di proteggere il tuo account mediante una password.
+
+                       # / Comandi \ #
+1) /register <password> - Imposta la tua password
+2) /login <password> - Login con la tua password
+3) /changepass <Vecchia Password> <Nuova Password> - Cambia la tua password
+4) /unregister <password> - Elimina la tua registrazione
+5) /logout - Logout
+
+
+# + --- Essentials X
+# | Essentials e' il plugin base di Minecraft
+
+                       # / Comandi \ #
+1)  /Afk                  - Away From Keyboard | Lontano dalla Tastiera
+2)  /Back                 - Ritorno alla posizione precedente
+3)  /Clear                - Pulizia completa dell'inventario
+4)  /Sethome <Nome>       - Setting della home
+5)  /Delhome <Nome>       - Cancellazione home
+6)  /Exp                  - Mostra il tuo livello d'esperienza
+7)  /Kit - Lista dei Kit
+      A) /Kit Starter     - Kit Iniziale del server
+      B) /Kit Color       - Kit con la lista dei colori utilizzabili in chat/cartelli
+      C) /Kit Firework    - Kit fuochi d'artificio
+   
+8)  /List                 - Lista Player presenti sul server
+9)  /Msg <Nome> <Msg>     - Invio messaggio privato ad un Player
+10) /R                    - Risposta rapida al messaggio privato
+11) /Spawn                - Per andare allo Spawn
+12) /Warp o /Warps        - Per la lista dei Warp
+13) /Warp <Nome>          - Per andare in un determinato Warp
+14) /Tpa <Nome>           - Per chiedere ad un Player di essere teletrasportato
+15) /Tpahere              - Per far teletrasportare un player da te
+16) /Tpaall               - Per teletraposrtare tutti da te
+17) /Tapaccept            - Per accettare il teleport
+18) /Tpadeny              - Per rifiutare il teleport
