@@ -109,9 +109,24 @@ Non serve alcun comando per utilizzare questo plugin
 # | Il classico plugin dei lotti.
 
                      # / Comandi \ #
-1) /Petm setowner <Nome> - Diventi il possessore di un animale (Cane, Pappagallo, etc)
-2) /Petm free <Nome>     - Liberi un animale
-
+1) /Plot visit <player|alias|world|id> [#] OPPURE /plot visit <world>;<id> [#]    - Visita il lotto di un Player
+2) /Plot trust <player>     - Permetti ad un player di costruire
+3) /Plot add <player>       - Permetti ad un player di costruire solo quando sei online
+4) /Plot deny <player>      - Nega ad un player il permesso di costruire nel tuo lotto
+5) /Plot remove <player>    - Rimuovi un player dalla tua lista di Player Fidati
+6) /Plot info <id>          - Ottieni informazioni riguardo il lotto in cui ti trovi
+7) /Plot list forsale       - Cerca lotti in vendita
+8) /Plot kick <player>      - Kicka un player dal tuo loto
+9) /Plot rate [#|next]      - Dai un voto ad un lotto
+10) /Plot comment           - Commenta un lotto
+11) /Plot inbox [inbox] [delete <index>|clear|page]       - Leggi i commenti del tuo lotto
+12) /Plot target <<plot>|nearest>       - Targhetta un lotto con la bussola
+13) /Plot chat [on|off]     - Abilita o Disabilita la chat del lotto
+14) /Plot middle            - Ti teletrasporta al centro del lotto
+15) /Plot desc <description>            - Imposta la descrizione di un lotto
+16) /Plot alias set <alias>
+17) /Plot alias remove <alias>
+/plot biome [biome] - Imposta il bioma del tuo lotto (Only Vip!)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # + --- QuickShop
