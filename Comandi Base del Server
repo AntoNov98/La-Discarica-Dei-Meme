@@ -39,6 +39,10 @@ Qui troverai la lista di tutti i comandi accessibili nel server, buon game!
 17) /Tapaccept            - Per accettare il teleport
 18) /Tpadeny              - Per rifiutare il teleport
 
+                       # / Comandi Vip \ #
+1) /Heal                  - Ti cura
+2) /Fly                   - Ti permette di volare
+3) /Hat                   - Ti permette di indossare qualsiasi cosa!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # + --- EmotePlugin 3
@@ -88,12 +92,7 @@ Non serve alcun comando per utilizzare questo plugin
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # + --- Nametag
-# | Nametag ti permette di poter creare un proprio nick personalizzato.
-
-                     # / Comandi \ #
-1) /Nte Player <Nome> clear             - Elimina il nick creato
-2) /Nte Player <Nome> prefix <Prefisso> - Crea un Suffisso
-3) /Nte Player <Nome> suffix <Suffisso> - Crea un Prefisso
+# | Nametag ti permette di poter creare un proprio nick personalizzato. (Solo Vip!) 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -104,4 +103,61 @@ Non serve alcun comando per utilizzare questo plugin
 1) /Petm setowner <Nome> - Diventi il possessore di un animale (Cane, Pappagallo, etc)
 2) /Petm free <Nome>     - Liberi un animale
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- PlotSquared
+# | Il classico plugin dei lotti.
+
+                     # / Comandi \ #
+1) /Petm setowner <Nome> - Diventi il possessore di un animale (Cane, Pappagallo, etc)
+2) /Petm free <Nome>     - Liberi un animale
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- QuickShop
+# | QuickShop ti permette di creare un negozio! Ti serviranno 10$ per crearne uno :)
+
+                     # / Comandi \ #
+1) /Qs buy               - I player possono vendere alla tua cassa
+2) /Qs sell              - I player possono acquistare dalla tua cassa
+3) /Qs price             - Modifichi il prezzo. (Potrebbe costarti caro)
+4) /Qs find <item>       - Trova il negozio piu' vicino a te' avete il l'item desiderato
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- PlayerHead
+# | PlayerHead ti permette di far spawnare la testa dei Player (Solo Vip!)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- Sign
+# | Sign ti permette di modificare i cartelli senza distruggerli (Solo Vip!)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+F I N E     C O M A N D I     B A S E
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# + --- Vip+
+# | Il pacchetto Vip+ ti da l'accesso ad altri comandi non accessibili ai normali player.
+
+                     # / Comandi Vip Essentials \ #
+1) /Heal                  - Ti cura
+2) /Fly                   - Ti permette di volare
+3) /Hat                   - Ti permette di indossare qualsiasi cosa!
+
+                     # / Comandi Vip Nametag \ #
+1) /Nte Player <Nome> clear               - Elimina il nick creato
+2) /Nte Player <Nome> prefix <Prefisso>   - Crea un Suffisso
+3) /Nte Player <Nome> suffix <Suffisso>   - Crea un Prefisso
+
+                     # / Comandi Vip PlayerHeads \ #
+1) /Ph o /PlayerHeads spawn           - Spawna la propria Testa
+2) /Ph o /PlayerHeads spawn <nome>    - Spawna la propria Testa di un altro player
+
+                     # / Comandi Vip Sign \ #
+1) /Edit <Riga> <Testo>    - Modifica la riga selezionata inserendo il testo da te scritto
+2) /Colorcodes             - Ti mostra la lista dei colori utilizzabili (/kit color)
 
