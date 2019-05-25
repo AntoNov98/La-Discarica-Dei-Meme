@@ -10,6 +10,7 @@ Qui troverai la lista di tutti i comandi accessibili nel server, buon game!
 4) /unregister <password> - Elimina la tua registrazione
 5) /logout - Logout
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # + --- Essentials X
 # | Essentials e' il plugin base di Minecraft
@@ -37,3 +38,42 @@ Qui troverai la lista di tutti i comandi accessibili nel server, buon game!
 16) /Tpaall               - Per teletraposrtare tutti da te
 17) /Tapaccept            - Per accettare il teleport
 18) /Tpadeny              - Per rifiutare il teleport
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- EmotePlugin 3
+# | Essentials e' un plugin  che ti permeterra' di interagire con i Player
+                      
+                      # / Comandi \ #
+1) /Hug <Nome>            - Abbraccia un giocatore
+2) /Kiss <Nome>           - Bacia un giocatore
+3) /Lick <Nome>           - Lecca un giocatore
+4) /Pounce <Nome>         - Molesta un giocatore
+5) /Slap <Nome>           - Schiaffeggia un giocatore
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- AutoFeed
+# | Autofeed permette al tuo personaggio di nutrirsi autonomamente dall'inventario
+
+                     # / Comandi \ #
+1) /Autofeed             - Per abilitare o disabilitare il plugin
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- MinePacks
+# | Minepacks permette al tuo personaggio di avere uno zaino
+
+                     # / Comandi \ #
+1) /Backpack             - Per accedere al tuo zaino
+2) /Backpack clear       - Pulizia completa del tuo zaino
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# + --- BlockLocker
+# | BlockLocker permette di proteggere tutte le casse, chest, fornaci, (etc) che piazzi in giro! 
+    Basta un cartello ed un semplice click
+
+                     # / Comandi \ #
+Non serve alcun comando per utilizzare questo plugin
+
